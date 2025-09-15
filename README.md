@@ -29,6 +29,9 @@ https://openlibrary.org/search.json?q=
 ├── README.md
 
 
+## chagpt work
+https://chatgpt.com/share/68c7ac3f-4b14-8009-8380-cf8406de18ba
+
 ## ⚡ Getting Started  
 1. Clone the repo  
 ```bash
@@ -50,5 +53,4 @@ Book covers:
 https://covers.openlibrary.org/b/id/COVER_ID-M.jpg
 
 
-## chagpt work
-https://chatgpt.com/share/68c7ac3f-4b14-8009-8380-cf8406de18ba
+
